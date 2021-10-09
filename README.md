@@ -5,7 +5,7 @@ A new Flutter project - using BLOC pattern state management and of course, for l
 ## Sandbox List (/lib/sandboxes)
 
 | Sandbox        | Description |
-| -------------- | ------------|
-| weather        | Advanced tutorial from flutter BLOC website by Felix Angelov(fangelov) |
+| -------------- | ----------- |
+| weather        | Fake/Mock Weather App Tutorial by from Reso Coder |
 
-*As of 09/10/2021
+*As of 10/10/2021
